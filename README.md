@@ -33,7 +33,12 @@ User Stories:
 
 - As a client, i want to have links to my social media pages, so that my visitors are able to visit these pages trough the website.
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+Mockup:
+
+A mockup of the site can be found in the mockup folder [here](https://github.com/wickyakloe/skillz4you/tree/master/mockup).
+
+A hosted version can be found [here](https://github.com/wickyakloe/skillz4you/tree/master/mockup)
+
 
 ## Features
 
