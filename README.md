@@ -2,14 +2,36 @@
 
 Website for client who is a child nurture expert they focus on how to raise children with behavioural problems.
 
-They are in need of a website to present the business they are in and present information related to behaviour and psychology.
- 
-## UX
- 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+They are in need of a website to present the business they are in.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+I will be providing the client with a concept website as to how it can look and function.
+
+## UX
+
+The website is intended for visitors who are looking for advice and counciling in the raising of children and their behaviour or find specific information related to this subject provided by the client skillz4you.eu, visitors should be able to contact the client for questions and also be able to lookup his business details.
+
+User Stories:
+- As a client, i want to have links to my social media pages, so that my visitors are able to visit these pages trough the website.
+
+- As a client, i want to have the following pages:
+
+| Dutch         | English |
+| ------------- |:--------:|
+| Welkom        | Welcome   |
+| Wie ben ik?     | Who am i? |
+| De ontwikkelingstaken | The development tasks|
+| Schema ontwikkelingstaken | Schedule development tasks |
+| Onze missie | Our mission |
+| Onze werkwijze | Our way of working |
+| Fotogalerij | Fotogalary |
+| De keuzevakken | The lessons |
+| Contact | Contact |
+| Privacy | Privacy |
+
+ so that my visitors are able to find information on these subjects.
+
+
+- As a client, i want to have links to my social media pages, so that my visitors are able to visit these pages trough the website.
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
