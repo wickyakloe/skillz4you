@@ -37,7 +37,7 @@ Mockup:
 
 A mockup of the site can be found in the mockup folder [here](https://github.com/wickyakloe/skillz4you/tree/master/mockup).
 
-A hosted version can be found [here](https://github.com/wickyakloe/skillz4you/tree/master/mockup)
+A hosted version using github pages can be found [here](https://wickyakloe.github.io/skillz4you/mockup/index.html)
 
 
 ## Features
